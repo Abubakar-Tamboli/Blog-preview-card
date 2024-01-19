@@ -2,6 +2,9 @@
 
 Welcome to the repository for my awesome webpage! This project showcases a website I created using HTML and CSS, with a focus on CSS Grid and HTML semantics.
 
+![Website Screenshot](https://example.com/path/to/screenshot.png)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
