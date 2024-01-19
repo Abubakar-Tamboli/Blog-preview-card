@@ -1,4 +1,4 @@
-# My Webpage Project
+# My Webpage of Blog-Preview-Card
 
 Welcome to the repository for my awesome webpage! This project showcases a website I created using HTML and CSS, with a focus on CSS Grid and HTML semantics.
 
@@ -31,4 +31,4 @@ To view the webpage locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Abubakar-Tamboli/Blog-preview-card.git
