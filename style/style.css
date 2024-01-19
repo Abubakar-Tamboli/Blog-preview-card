@@ -1,7 +1,13 @@
 
+@font-face{
+    font-family: 'Figtree';
+    src: url(/assets/fonts/static/Figtree-ExtraBold.ttf) format(ttf);
+    src: url(/assets/fonts/static/Figtree-SemiBold.ttf) format(ttf);
+}
+
 body{
     background-color: #f5d04e;
-    font-family: sans-serif;
+    font-family: 'Figtree',sans-serif;
     display: flex;
     flex-direction: column;
     justify-content: center;
