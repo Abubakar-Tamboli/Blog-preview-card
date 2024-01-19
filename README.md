@@ -2,7 +2,7 @@
 
 Welcome to the repository for my awesome webpage! This project showcases a website I created using HTML and CSS, with a focus on CSS Grid and HTML semantics.
 
-![Website Screenshot](https://example.com/path/to/screenshot.png)
+![Website Screenshot](https://github.com/Abubakar-Tamboli/Blog-preview-card/commit/056bc9750c74add76e95dd2aec75f838e2f6fb55)
 
 
 ## Table of Contents
