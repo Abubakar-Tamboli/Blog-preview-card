@@ -4,15 +4,6 @@ Welcome to the repository for my awesome webpage! This project showcases a websi
 
 ![Website Screenshot](https://github.com/Abubakar-Tamboli/Blog-preview-card/blob/main/assets/images/Blog-preview-card.png)
 
-
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - **CSS Grid Layout**: The webpage layout is designed using CSS Grid, providing a powerful and flexible way to create responsive designs.
@@ -24,11 +15,7 @@ Welcome to the repository for my awesome webpage! This project showcases a websi
 - HTML
 - CSS
 
-## Getting Started
 
-To view the webpage locally, follow these steps:
+## Author
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/Abubakar-Tamboli/Blog-preview-card.git
+- Website - [Abubakar Tamboli](https://github.com/Abubakar-Tamboli)
